@@ -1,0 +1,2 @@
+# SpentMoneyTracker
+Spent Money Tracker
